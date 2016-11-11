@@ -1,4 +1,4 @@
-#sbmod-pixmat
+# sbmod-pixmat
 
 Code licensed under GPLv3, file included
 
