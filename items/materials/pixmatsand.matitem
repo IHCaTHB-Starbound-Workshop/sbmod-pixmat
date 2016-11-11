@@ -1,0 +1,11 @@
+{
+  "itemName" : "pixmatsand",
+  "price" : 4,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "pixmat.png",
+  "description" : "Block made of pixels",
+  "shortdescription" : "Pixel block",
+
+  "materialId" : 501
+}

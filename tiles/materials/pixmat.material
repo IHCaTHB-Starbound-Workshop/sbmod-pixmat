@@ -1,0 +1,21 @@
+{
+  "materialId" : 500,
+  "materialName" : "pixmat",
+  "particleColor" : [226, 218, 117, 255],
+  "itemDrop" : "money",
+  "description" : "Block made of pixels.",
+  "shortdescription" : "Pixel block",
+  "footstepSound" : "/sfx/blocks/footstep_rock.ogg",
+  "health" : 1,
+  "category" : "materials",
+  
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "pixmat.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 1720
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "pixmatplat",
+  "price" : 2,
+  "category" : "platform",
+  "rarity" : "Common",
+  "inventoryIcon" : "pixmatplat.png",
+  "description" : "Platform made of pixels",
+  "shortdescription" : "Pixel platform",
+
+  "materialId" : 502
+}
