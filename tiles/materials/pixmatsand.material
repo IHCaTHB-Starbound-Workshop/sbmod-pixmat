@@ -16,8 +16,8 @@
     "texture" : "pixmatsand.png",
     "variants" : 2,
     "lightTransparent" : false,
-    "occludesBelow" : true,
-    "multiColored" : true,
-    "zLevel" : 1720
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 0
   }
 }

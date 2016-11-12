@@ -4,14 +4,14 @@
   "collisionKind" : "platform",
   "itemDrop" : "pixmatplat",
   "shortdescription" : "Pixel Platform",
-  "description" : "Aa platform made from pixels.",
+  "description" : "A platform made from pixels.",
   "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
   "category" : "Supports",
 
   "renderTemplate" : "/tiles/platformtemplate.config",
   "renderParameters" : {
     "texture" : "pixmatplat.png",
-    "variants" : 5,
+    "variants" : 1,
     "lightTransparent" : true,
     "occludesBelow" : false,
     "multiColored" : false,

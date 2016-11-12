@@ -1,8 +1,8 @@
 {
-  "materialId" : 500,
-  "materialName" : "pixmat",
+  "materialId" : 503,
+  "materialName" : "pixmatsolo",
   "particleColor" : [226, 218, 117, 255],
-  "itemDrop" : "pixmat",
+  "itemDrop" : "pixmatsolo",
   "description" : "Block made of pixels.",
   "shortdescription" : "Pixel block",
   "footstepSound" : "/sfx/blocks/footstep_rock.ogg",
@@ -11,8 +11,8 @@
   
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
-    "texture" : "pixmat.png",
-    "variants" : 5,
+    "texture" : "pixmatsolo.png",
+    "variants" : 1,
     "lightTransparent" : false,
     "occludesBelow" : false,
     "multiColored" : false,
