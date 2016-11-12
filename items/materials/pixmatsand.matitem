@@ -4,8 +4,9 @@
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "pixmat.png",
-  "description" : "Block made of pixels",
-  "shortdescription" : "Pixel block",
+  "description" : "Four pixels precariously stacked.",
+  "shortdescription" : "Pixel block (loose)",
+  "learnBlueprintsOnPickup" : [ "pixmatsand", "pixmatsandrev" ],
 
   "materialId" : 501
 }

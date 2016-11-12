@@ -5,7 +5,8 @@
   "rarity" : "Common",
   "inventoryIcon" : "pixel.png",
   "description" : "Block of pixel",
-  "shortdescription" : "Pixel block",
+  "shortdescription" : "Pixel block (single)",
+  "learnBlueprintsOnPickup" : [ "pixmatsolo", "pixmatsolorev" ],
 
   "materialId" : 503
 }

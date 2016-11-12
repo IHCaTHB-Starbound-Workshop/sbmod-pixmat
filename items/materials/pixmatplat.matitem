@@ -6,6 +6,7 @@
   "inventoryIcon" : "pixmatplat.png",
   "description" : "Platform made of pixels",
   "shortdescription" : "Pixel platform",
+  "learnBlueprintsOnPickup" : [ "pixmatplat", "pixmatplatrev" ],
 
   "materialId" : 502
 }

@@ -1,0 +1,94 @@
+[[
+  {
+    "op": "test",
+    "path":"/learnBlueprintsOnPickup/0"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmat"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmatsand"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmatsolo"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmatplat"
+  }
+],
+[
+  {
+    "op": "test",
+    "path":"/learnBlueprintsOnPickup"
+  },
+  {
+    "op": "move",
+    "from": "/learnBlueprintsOnPickup",
+    "path": "/hold"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": []
+  },
+  {
+    "op": "move",
+    "from": "/hold",
+    "path": "/learnBlueprintsOnPickup/-"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmat"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmatsand"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmatsolo"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmatplat"
+  }
+],
+[
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmat"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmatsand"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmatsolo"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pixmatplat"
+  }
+]]

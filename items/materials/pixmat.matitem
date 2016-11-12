@@ -5,7 +5,8 @@
   "rarity" : "Common",
   "inventoryIcon" : "pixmat.png",
   "description" : "Block made of pixels",
-  "shortdescription" : "Pixel block",
+  "shortdescription" : "Pixel block (solid)",
+  "learnBlueprintsOnPickup" : [ "pixmat", "pixmatrev" ],
 
   "materialId" : 500
 }
