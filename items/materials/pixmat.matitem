@@ -6,7 +6,7 @@
   "inventoryIcon" : "pixmat.png",
   "description" : "Block made of pixels",
   "shortdescription" : "Pixel block (solid)",
-  "learnBlueprintsOnPickup" : [ "pixmat", "pixmatrev" ],
+  "learnBlueprintsOnPickup" : [ "pixmat" ],
 
   "materialId" : 500
 }

@@ -6,7 +6,7 @@
   "inventoryIcon" : "pixmat.png",
   "description" : "Four pixels precariously stacked.",
   "shortdescription" : "Pixel block (loose)",
-  "learnBlueprintsOnPickup" : [ "pixmatsand", "pixmatsandrev" ],
+  "learnBlueprintsOnPickup" : [ "pixmatsand" ],
 
   "materialId" : 501
 }
